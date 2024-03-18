@@ -1,13 +1,13 @@
 //
-//  WelcomeViewController.swift
+//  PersonInfoViewController.swift
 //  LogInApp
 //
-//  Created by OSIIOSdev on 13.03.2024.
+//  Created by OSIIOSdev on 18.03.2024.
 //
 
 import UIKit
 
-class WelcomeViewController: UIViewController {
+class PersonInfoViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
